@@ -4,3 +4,30 @@ body {
     font-family: 'Oxygen', sans-serif;
 }
 
+.navbar-default {
+    background-image: none;
+    background-color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: #000;
+}
+
+.jumbotron {
+    background-color: #6F5499;
+    margin-bottom: 0;
+    padding: 30px 15px;
+}
+
+.jumbotron h1  {
+   color: #fff;
+}
+
+.jumbotron h2 {
+    color: #fff;
+    margin-bottom: -0.8em;
+}
+
+.jumbotron p {
+    color: #CDBFE3;
+}
