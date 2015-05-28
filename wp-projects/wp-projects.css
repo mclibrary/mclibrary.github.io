@@ -31,3 +31,11 @@ body {
 .jumbotron p {
     color: #CDBFE3;
 }
+
+.row {
+    margin-left: 1em;
+}
+
+.thumbnail {
+    width: 200px;
+}
