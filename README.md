@@ -1,2 +1,2 @@
-# mclibrary.github.io
-Off-site Resource Access
+# WordPress Projects
+https://mclibrary.github.io/wp-projects
